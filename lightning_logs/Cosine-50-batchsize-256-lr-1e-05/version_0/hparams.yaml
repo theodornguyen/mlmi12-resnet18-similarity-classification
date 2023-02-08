@@ -1,0 +1,4 @@
+batchsize: 64
+categories: 50
+lr: 1.0e-05
+pretrained: true

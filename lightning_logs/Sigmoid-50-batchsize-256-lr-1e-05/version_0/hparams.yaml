@@ -1,0 +1,3 @@
+batchsize: 64
+lr: 1.0e-05
+pretrained: true
