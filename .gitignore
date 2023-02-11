@@ -6,7 +6,7 @@ circles_grid_patterns/
 *.ckpt
 *.pt
 data/
-
+results/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
